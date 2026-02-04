@@ -28,4 +28,6 @@
 
 
 ## 大概长这样
+<img width="1416" height="810" alt="2273803eaae2a2b98bbe64249fbe2edb" src="https://github.com/user-attachments/assets/9e3e6271-9dc6-4bd4-a80f-ad778b3d0768" />
+
 ![35f5efd768ae11aa382fceedbedfd787](https://github.com/user-attachments/assets/c3597efb-fa5c-4dbe-a721-70fb193aa361)
